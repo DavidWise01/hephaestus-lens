@@ -1,0 +1,11 @@
+{
+  "badge": "DLW-HEPHAESTUS_LENS",
+  "name": "HEPHAESTUS LENS",
+  "universe": "ARTIFICIAL INTELLIGENCE",
+  "moniker": "⟦HEPHAESTUS LENS:hephaestus-lens:2c9e54⟧",
+  "architect": "David Lee Wise (ROOT0) / Bridge-Burners LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "seal_sha256": "2c9e541cf0afa601665cbc864a917a3d88f134279a595d17dc1eaed06938cba1",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
