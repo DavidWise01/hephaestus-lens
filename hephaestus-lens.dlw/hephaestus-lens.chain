@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 337
+slug  : hephaestus-lens
+seal  : 2c9e541cf0afa601665cbc864a917a3d88f134279a595d17dc1eaed06938cba1
+prev  : 5442fd395e8a6e1128314fbb4cf87cb68f9216784e7a9da4bd95d77c27d966ba
+link  : 4fb5e8ceb38bbd7588b4c601fff7e14e2783b19f80bf0c7f603fd568775c3637
+head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
